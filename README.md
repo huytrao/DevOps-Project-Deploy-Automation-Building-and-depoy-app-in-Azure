@@ -10,7 +10,7 @@
 5. Push .NET Core Project to Azure Repos
 6. Create a continuous integration pipeline.
 7. Create a continuous delivery pipeline.
-8. Adding the Approval Process
+8. Adding the Approval Process \
    ** My Target **
    -1. Finish this project within 1 week.
     -2. When I have a new idea, I will upgrade it.
